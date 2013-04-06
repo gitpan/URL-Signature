@@ -35,7 +35,7 @@
             "Carp" : "0",
             "Class::Load" : "0",
             "Digest::HMAC" : "0",
-            "MIME::Base64" : "0",
+            "MIME::Base64" : "3.11",
             "Params::Util" : "0",
             "Test::More" : "0",
             "URI" : "1.60",
@@ -44,5 +44,5 @@
       }
    },
    "release_status" : "stable",
-   "version" : "0.01"
+   "version" : "0.02"
 }
